@@ -1,0 +1,78 @@
+/*Extra small devices (portrait phones, less than 576px)----*/
+@media (max-width: 575.98px) {
+    .logo {
+    width: 75%;
+}
+    .banner-logo{
+        width: 50%;
+    }
+    .heading-h1 {
+    font-size: 30px;
+}
+    tbody tr th, tbody tr td {
+    padding: 3px !important;
+}
+    thead tr th {
+    font-size: 16px;
+}
+    
+    
+    
+    
+}
+
+/*Small devices (landscape phones, 576px and up)------*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+}
+
+/*Medium devices (tablets, 768px and up)------*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    tbody tr th, tbody tr td {
+    padding: 5px !important;
+}
+    .del-price {
+    font-size: 18px;
+}
+  .price {
+    font-size: 18px;
+}  
+    .btn-1 {
+    font-size: 16px;
+    padding: 10px 15px;
+}
+    .card-pra {
+    font-size: 18px;
+}
+    .img-1 {
+    width: 39%;
+}
+    
+}
+
+/*Large devices (desktops, 992px and up)-------*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.logo {
+    width: 25%;
+}
+.logo-1 {
+    width: 18%;
+}
+.logo-2 {
+    width: 45%;
+}
+.manu ul li a {
+    font-size: 14px;
+    padding: 0 !important;
+    padding-left: 15px !important;
+}
+    .img-1 {
+    width: 35%;
+}
+    
+}
+
+/*Extra large devices (large desktops, 1200px and up)------*/
+@media (min-width: 1200px) {
+    
+}

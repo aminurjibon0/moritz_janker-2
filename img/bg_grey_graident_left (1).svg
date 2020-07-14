@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="1050px" viewBox="0 0 1440 1050" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>bg_color</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.9357462%" id="linearGradient-1">
+            <stop stop-color="#EFEFED" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-2" d="M1440,271.853014 L1440,778.146986 L0,1050 L0,0 L1440,271.853014 Z"></path>
+    </defs>
+    <g id="Desktop-Version" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="version_1_hand" transform="translate(0.000000, -1152.000000)">
+            <g id="feature_01" transform="translate(0.000000, 1152.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="bg_color" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
